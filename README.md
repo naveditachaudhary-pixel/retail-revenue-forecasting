@@ -4,6 +4,8 @@ An end-to-end analytics project in Google BigQuery for **Retro**, a made-up reta
 
 The most useful result was a correction. **The first forecasting model was badly wrong**, and finding out why changed the recommendation.
 
+**Timeline:** original BigQuery warehouse and forecast built in Spring 2026. Recovered SQL, backtested `ARIMA_PLUS` rebuild, and this README published here in November 2026.
+
 ## Results at a glance
 
 | | |
