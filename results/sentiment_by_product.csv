@@ -1,0 +1,5 @@
+product,reviews,positive,negative,pct_positive,top_complaint,revenue,units,note
+Keyboard,258,123,135,47.7,terrible,51755868.0,199022,
+Mouse,243,129,114,53.1,bad,,,no sales data for this product
+Screen,266,142,124,53.4,broken,52350027.0,200696,"matched to ""Monitor"" in sales"
+Laptop,233,127,106,54.5,terrible,51540735.0,198520,
